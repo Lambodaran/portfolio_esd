@@ -152,7 +152,7 @@ export const sessionsData: Session[] = [
     summary: "Insights into the technical aspects of the IT industry and project management.",
     overview: "This session provided insights into the technical aspects of the IT industry, including the technologies commonly used for web hosting and the process of managing successful projects.",
     images: [
-      "/uploads/40b96ce5-0522-4754-b3ca-8b78c649ddb5.png"
+      "/uploads/40b96ce5-0522-4754-b3ca-8b78c649ddb5.jpeg"
     ],
     keyTopics: [
       {
