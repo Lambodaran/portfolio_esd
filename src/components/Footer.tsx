@@ -21,8 +21,7 @@ const Footer = () => {
           </div>
           <div>
             <h3 className="text-xl font-semibold mb-4">Contact</h3>
-            <p className="text-gray-300">Northern University</p>
-            <p className="text-gray-300">Email: module@university.edu</p>
+            <p className="text-gray-300"><a href="https://northernuni.lk">Northern Uni</a></p>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-gray-700 text-center text-gray-300">
