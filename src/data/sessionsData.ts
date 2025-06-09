@@ -324,8 +324,8 @@ export const sessionsData: Session[] = [
     summary: "Essential skills required for choosing a successful career path.",
     overview: "This session focused on the essential skills required for choosing a successful career path, highlighting the importance of practical experience, personal branding, and continuous learning. It provided insights into moving from academic learning to real-world impact.",
      images: [
-      "public/uploads/session6.jpeg",
-      "public/uploads/session06.jpeg"
+      "/uploads/session6.jpeg",
+      "/uploads/session06.jpeg"
     ],
     keyTopics: [
       {
@@ -375,7 +375,7 @@ export const sessionsData: Session[] = [
     summary: "Understanding stress management techniques and work-life balance.",
     overview: "This session focused on understanding the sources of stress, effective stress management techniques, and the importance of balancing work and personal life for long-term well-being and career success.",
      images: [
-      "public/uploads/session7.jpeg"
+      "/uploads/session7.jpeg"
     ],
     keyTopics: [
       {
@@ -438,8 +438,8 @@ export const sessionsData: Session[] = [
     summary: "Understanding the fundamentals of business and company laws.",
     overview: "This session covered the fundamental differences between business law and company law, the legal steps to start a company, and the essential rights and responsibilities of employers, employees, and companies.",
      images: [
-      "public/uploads/session8.jpeg",
-      "public/uploads/session08.jpeg"
+      "/uploads/session8.jpeg",
+      "/uploads/session08.jpeg"
     ],
     keyTopics: [
       {
@@ -493,8 +493,8 @@ export const sessionsData: Session[] = [
     summary: "Exploring non-IT career opportunities and communication skills.",
     overview: "This session explored the wide range of non-IT career opportunities, the importance of communication skills, and practical strategies to improve English speaking for career growth. It also discussed the benefits of coworking spaces for modern professionals.",
      images: [
-      "public/uploads/session9.jpeg",
-      "public/uploads/session09.jpeg"
+      "/uploads/session9.jpeg",
+      "/uploads/session09.jpeg"
     ],
     keyTopics: [
       {
