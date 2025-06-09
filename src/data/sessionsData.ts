@@ -268,8 +268,8 @@ export const sessionsData: Session[] = [
     summary: "Introduction to the field of UI/UX design and career opportunities.",
     overview: "This session provided an introduction to the field of UI/UX design, exploring career opportunities, essential skills, and industry trends. It highlighted the importance of user-centered design and the critical role UI/UX professionals play in the success of digital products.",
      images: [
-      "public/uploads/session5.jpeg",
-      "public/uploads/session05.jpeg"
+      "/uploads/session5.jpeg",
+      "/uploads/session05.jpeg"
     ],
     keyTopics: [
       {
