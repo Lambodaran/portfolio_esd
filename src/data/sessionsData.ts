@@ -268,8 +268,8 @@ export const sessionsData: Session[] = [
     summary: "Introduction to the field of UI/UX design and career opportunities.",
     overview: "This session provided an introduction to the field of UI/UX design, exploring career opportunities, essential skills, and industry trends. It highlighted the importance of user-centered design and the critical role UI/UX professionals play in the success of digital products.",
      images: [
-      "/uploads/session5.jpeg",
-      "/uploads/session05.jpeg"
+      "public/uploads/session5.jpeg",
+      "public/uploads/session05.jpeg"
     ],
     keyTopics: [
       {
@@ -324,8 +324,8 @@ export const sessionsData: Session[] = [
     summary: "Essential skills required for choosing a successful career path.",
     overview: "This session focused on the essential skills required for choosing a successful career path, highlighting the importance of practical experience, personal branding, and continuous learning. It provided insights into moving from academic learning to real-world impact.",
      images: [
-      "/uploads/session6.jpeg",
-      "/uploads/session06.jpeg"
+      "public/uploads/session6.jpeg",
+      "public/uploads/session06.jpeg"
     ],
     keyTopics: [
       {
@@ -375,7 +375,7 @@ export const sessionsData: Session[] = [
     summary: "Understanding stress management techniques and work-life balance.",
     overview: "This session focused on understanding the sources of stress, effective stress management techniques, and the importance of balancing work and personal life for long-term well-being and career success.",
      images: [
-      "/uploads/session7.jpeg"
+      "public/uploads/session7.jpeg"
     ],
     keyTopics: [
       {
@@ -438,8 +438,8 @@ export const sessionsData: Session[] = [
     summary: "Understanding the fundamentals of business and company laws.",
     overview: "This session covered the fundamental differences between business law and company law, the legal steps to start a company, and the essential rights and responsibilities of employers, employees, and companies.",
      images: [
-      "/uploads/session8.jpeg",
-      "/uploads/session08.jpeg"
+      "public/uploads/session8.jpeg",
+      "public/uploads/session08.jpeg"
     ],
     keyTopics: [
       {
@@ -493,8 +493,8 @@ export const sessionsData: Session[] = [
     summary: "Exploring non-IT career opportunities and communication skills.",
     overview: "This session explored the wide range of non-IT career opportunities, the importance of communication skills, and practical strategies to improve English speaking for career growth. It also discussed the benefits of coworking spaces for modern professionals.",
      images: [
-      "/uploads/session9.jpeg",
-      "/uploads/session09.jpeg"
+      "public/uploads/session9.jpeg",
+      "public/uploads/session09.jpeg"
     ],
     keyTopics: [
       {
@@ -543,6 +543,83 @@ export const sessionsData: Session[] = [
       {
         title: "Coworking is the Future",
         description: "Flexible workspaces can boost productivity and networking."
+      }
+    ]
+  },
+  {
+    id: "session-10",
+    date: "6-Jun-25",
+    title: "Industrial Visit – Unicom SD",
+    instructor: "Field Visit Experience",
+    summary: "A comprehensive field visit to Unicom Software Development, exploring real-world software development practices and industry exposure.",
+    overview: "This industrial visit to Unicom SD provided students with valuable exposure to real-world software development practices. Unicom SD is a growing tech company that provides innovative digital solutions, especially for public service organizations, focusing on developing practical and impactful software used by government clients and event organizations.",
+    images: [
+      "/uploads/ind1.jpeg",
+      "/uploads/ind2.jpeg",
+      "/uploads/ind3.jpeg",
+      "/uploads/ind4.jpeg",
+      "/uploads/ind5.jpeg"
+    ],
+    keyTopics: [
+      {
+        title: "About Unicom SD",
+        description: "Unicom SD is a growing tech company that provides innovative digital solutions, especially for public service organizations. They focus on developing practical and impactful software used by government clients and event organizations."
+      },
+      {
+        title: "Key Projects at Unicom SD",
+        items: [
+          "Optimo – Ticket Booking System: Successfully used in the Paris Paralympics 2024, managing large-scale event ticketing smoothly.",
+          "Bubblt Town: A white-label mobile platform built for city councils, helping them connect with communities through news, events, and notifications.",
+          "Poddle: A customer engagement app that collects user data, shows personalized offers, and provides rewards via NFC (Near Field Communication) for a smooth and modern user experience."
+        ]
+      },
+      {
+        title: "Client Base and Impact",
+        items: [
+          "Inner West Council (Australia)",
+          "Other local government and council partners",
+          "International event organizations like the Paris Paralympics 2024"
+        ]
+      },
+      {
+        title: "Technologies Used at Unicom SD",
+        items: [
+          ".NET – for backend services and APIs",
+          "Angular – for responsive web front-end",
+          "Flutter – for cross-platform mobile apps",
+          "Microsoft Azure – for cloud hosting and scalability"
+        ]
+      },
+      {
+        title: "Internship Opportunities and Requirements",
+        items: [
+          "Unicom SD offers internships to students with solid coding knowledge",
+          "Preferred skills: Experience in OOP concepts, familiarity with .NET, Angular, or Flutter, basic project work or contributions on GitHub",
+          "Emphasis on hands-on practice, building your own projects, and being able to explain your code clearly"
+        ]
+      },
+      {
+        title: "Employee Interactions and Insights",
+        items: [
+          "Spoke with software developers and project leads",
+          "Gained insights into client communication and day-to-day team workflows",
+          "Learned about managing live deployments and handling real-world challenges",
+          "Received encouragement to practice clean coding, learn team collaboration, and stay updated with modern tools and frameworks"
+        ]
+      }
+    ],
+    keyTakeaways: [
+      {
+        title: "Mid-Size Companies Can Have Global Impact",
+        description: "Unicom SD is a great example of how a mid-size company can work on international-level projects like the Paris Paralympics 2024."
+      },
+      {
+        title: "Real Internship Opportunities Exist",
+        description: "There are genuine internship opportunities available for students who are enthusiastic, prepared, and have solid technical foundations."
+      },
+      {
+        title: "Industry Insight and Career Clarity",
+        description: "The visit provided clear insight into career pathways, technical expectations, and team collaboration in the software industry, helping students understand what to expect in professional environments."
       }
     ]
   }
